@@ -1,4 +1,4 @@
-# Netflix Content & Viewer Trend Analysis
+# Netflix Trends Data Analysis
 
 This project analyzes Netflix content data to uncover trends in content type, ratings, genres, and time of release using **Python**, **Tableau**, and **Excel**.
 
