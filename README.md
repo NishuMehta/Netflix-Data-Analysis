@@ -64,6 +64,4 @@ Netflix-Data-Analysis/
 
 ---
 
-## Related Tags
-
-`#Netflix` `#EDA` `#Python` `#Tableau` `#EntertainmentAnalytics` `#DataStorytelling`
+*This project is part of my Data Analyst Portfolio.*
